@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Combo
+description: A mean component-based user interface library.
+logo: src/logo.png
+show-downloads: false
