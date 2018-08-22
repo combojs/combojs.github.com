@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: slate
 title: Combo
 description: A mean component-based user interface library.
 logo: https://combojs.github.io/img/logo.png
